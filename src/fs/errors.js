@@ -13,4 +13,5 @@ module.exports = {
   NotTextFileError: createErrorClass("NotTextFileError"),
   PathAlreadyExistsError: createErrorClass("PathAlreadyExistsError"),
   PathNotFoundError: createErrorClass("PathNotFoundError"),
+  IllegalNameError: createErrorClass("IllegalNameError"),
 }
